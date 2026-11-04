@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RsaCipherApp/RsaCipherApp.csproj" />
+  <Project Path="RsaExchangeApp/RsaExchangeApp.csproj" />
+</Solution>
